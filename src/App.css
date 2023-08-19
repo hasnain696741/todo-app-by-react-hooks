@@ -1,0 +1,50 @@
+.main-div{
+  width: 70%;
+  height: 500px;
+  margin: 10px auto;
+background-color: red;
+opacity: 0.7;
+
+
+}
+ input{
+  width: 400px;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  margin-left: 120px;  
+  background-color: aquamarine;
+}
+form{
+  display: flex;
+justify-content: center;
+
+}
+.main-div form button{
+  width: 130px;
+  height: 40px;
+  border-radius: 100px;
+  border: none;
+margin-left: 20px;  
+}
+.dltall{
+ position: relative;
+ top: 45px;
+ left: 80px;
+ width: 130px;
+ height: 40px;
+ border-radius: 100px;
+ border: none;
+}
+.fun-div{
+  display: flex;
+margin: 40px;
+}
+.fun-div button{
+  width: 130px;
+  height: 40px;
+  border-radius: 100px;
+  border: none;
+  margin-left: 20px;
+}
